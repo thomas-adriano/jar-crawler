@@ -1,4 +1,3 @@
-//abcde
 ext {
     functionalTestDir='src/functional/java'
 }
